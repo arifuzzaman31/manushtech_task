@@ -65,6 +65,7 @@ npm install
 npx prisma migrate dev --name initial
 npx prisma generate
 npm run seed
+npm run dev
 ```
 
 # Frontend Setup
@@ -75,6 +76,7 @@ cd manushtech_task/frontend/
 npm install
 or
 npm install -f
+npm run dev
 ```
 
 # 2. Login Creadentials:
