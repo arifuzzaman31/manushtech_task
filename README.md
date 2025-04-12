@@ -77,8 +77,7 @@ or
 npm install -f
 ```
 
-# 2. install npm:
-Login Creadentials
+# 2. Login Creadentials:
 ```
 email: abir@manush.tech
 password: adminpassword
